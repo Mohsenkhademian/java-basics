@@ -28,6 +28,8 @@ public class JaggedArray {
 
 }
 
+// if use ArrayList :
+
 
 /*
 import java.util.ArrayList;
