@@ -23,3 +23,23 @@ public class MaxTwoNumbersInArrays {
 		obj.getMaxNumber(arr);
 	}
 }
+
+
+
+
+
+/*
+
+import java.util.Arrays;
+
+public class MaxTwoNumbersInArrays {
+    public static void main(String[] args) {
+        int[] arr = {5, 34, 78, 2, 45, 1, 99, 23};
+        Arrays.sort(arr);
+        System.out.println("First Max Number: " + arr[arr.length - 1]);
+        System.out.println("Second Max Number: " + arr[arr.length - 2]);
+    }
+}
+
+
+*/
